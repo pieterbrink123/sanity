@@ -1,4 +1,4 @@
-name: Test exports works in native node ESM and CJS
+name: Test exports works in native node ESM and CJS and TypeScript DTS
 on:
   push:
     paths-ignore:
@@ -21,5 +21,5 @@ jobs:
       - name: Install project dependencies
         run: pnpm install
 
-      - name: Check export conditions in native node ESM and CJS
+      - name: Check export conditions in native node ESM and CJS, and TypeScript DTS
         run: pnpm test:exports
