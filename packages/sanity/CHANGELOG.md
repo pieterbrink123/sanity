@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>3.98.2 (2025-07-10)</small>
+
+* chore: auto-upload schema when a toggle is enabled (#9644) ([0eb00fd](https://github.com/sanity-io/sanity/commit/0eb00fd)), closes [#9644](https://github.com/sanity-io/sanity/issues/9644)
+* chore(deps): update dependency @sanity/visual-editing-csm to ^2.0.19 (#9942) ([3c1a30d](https://github.com/sanity-io/sanity/commit/3c1a30d)), closes [#9942](https://github.com/sanity-io/sanity/issues/9942)
+* fix(deps): update dependency @portabletext/block-tools to ^1.1.38 (#9940) ([3dd90d5](https://github.com/sanity-io/sanity/commit/3dd90d5)), closes [#9940](https://github.com/sanity-io/sanity/issues/9940)
+* fix(deps): update dependency @portabletext/editor to ^1.57.5 (#9941) ([892da2b](https://github.com/sanity-io/sanity/commit/892da2b)), closes [#9941](https://github.com/sanity-io/sanity/issues/9941)
+* fix(deps): update dependency @sanity/ui to ^2.16.4 (#9934) ([3967361](https://github.com/sanity-io/sanity/commit/3967361)), closes [#9934](https://github.com/sanity-io/sanity/issues/9934)
+* feat(core): keep values when clicking off create release modal (#9871) ([fe8330e](https://github.com/sanity-io/sanity/commit/fe8330e)), closes [#9871](https://github.com/sanity-io/sanity/issues/9871)
+
+
+
+
+
 ## <small>3.98.1 (2025-07-09)</small>
 
 * fix: handling where no templates available and not showing create doc button (#9933) ([d2f9810](https://github.com/sanity-io/sanity/commit/d2f9810)), closes [#9933](https://github.com/sanity-io/sanity/issues/9933)

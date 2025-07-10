@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>3.98.2 (2025-07-10)</small>
+
+* fix(cli): add document-id flag to functions test (#9944) ([b9e7fcd](https://github.com/sanity-io/sanity/commit/b9e7fcd)), closes [#9944](https://github.com/sanity-io/sanity/issues/9944)
+* chore(deps): update dependency recast to ^0.23.11 (#9923) ([a187128](https://github.com/sanity-io/sanity/commit/a187128)), closes [#9923](https://github.com/sanity-io/sanity/issues/9923)
+
+
+
+
+
 ## <small>3.98.1 (2025-07-09)</small>
 
 * test: remove flag from cli token tests (#9925) ([6b4088a](https://github.com/sanity-io/sanity/commit/6b4088a)), closes [#9925](https://github.com/sanity-io/sanity/issues/9925)

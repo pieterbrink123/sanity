@@ -3,6 +3,26 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>3.98.2 (2025-07-10)</small>
+
+* fix(cli): add document-id flag to functions test (#9944) ([b9e7fcd](https://github.com/sanity-io/sanity/commit/b9e7fcd)), closes [#9944](https://github.com/sanity-io/sanity/issues/9944)
+* fix(deps): update dependency @portabletext/block-tools to ^1.1.38 (#9940) ([3dd90d5](https://github.com/sanity-io/sanity/commit/3dd90d5)), closes [#9940](https://github.com/sanity-io/sanity/issues/9940)
+* fix(deps): update dependency @portabletext/editor to ^1.57.5 (#9941) ([892da2b](https://github.com/sanity-io/sanity/commit/892da2b)), closes [#9941](https://github.com/sanity-io/sanity/issues/9941)
+* fix(deps): update dependency @sanity/ui to ^2.16.4 (#9934) ([3967361](https://github.com/sanity-io/sanity/commit/3967361)), closes [#9934](https://github.com/sanity-io/sanity/issues/9934)
+* chore: adding docs team inclusion notice (#9715) ([6870d3f](https://github.com/sanity-io/sanity/commit/6870d3f)), closes [#9715](https://github.com/sanity-io/sanity/issues/9715)
+* chore: auto-upload schema when a toggle is enabled (#9644) ([0eb00fd](https://github.com/sanity-io/sanity/commit/0eb00fd)), closes [#9644](https://github.com/sanity-io/sanity/issues/9644)
+* chore: updating name of release PR and commit to prefix version with v (#9932) ([80621cb](https://github.com/sanity-io/sanity/commit/80621cb)), closes [#9932](https://github.com/sanity-io/sanity/issues/9932)
+* chore(deps): update dependency @sanity/visual-editing-csm to ^2.0.19 (#9942) ([3c1a30d](https://github.com/sanity-io/sanity/commit/3c1a30d)), closes [#9942](https://github.com/sanity-io/sanity/issues/9942)
+* chore(deps): update dependency recast to ^0.23.11 (#9923) ([a187128](https://github.com/sanity-io/sanity/commit/a187128)), closes [#9923](https://github.com/sanity-io/sanity/issues/9923)
+* chore(examples): update instructions (#9938) ([f2941c7](https://github.com/sanity-io/sanity/commit/f2941c7)), closes [#9938](https://github.com/sanity-io/sanity/issues/9938)
+* feat(core): keep values when clicking off create release modal (#9871) ([fe8330e](https://github.com/sanity-io/sanity/commit/fe8330e)), closes [#9871](https://github.com/sanity-io/sanity/issues/9871)
+* feat(examples): Algolia-Sync to the function recipes  (#9731) ([fed1a8d](https://github.com/sanity-io/sanity/commit/fed1a8d)), closes [#9731](https://github.com/sanity-io/sanity/issues/9731)
+* feat(examples): generate a summary with ai-agents functions recipe (#9758) ([95d60fe](https://github.com/sanity-io/sanity/commit/95d60fe)), closes [#9758](https://github.com/sanity-io/sanity/issues/9758)
+
+
+
+
+
 ## <small>3.98.1 (2025-07-09)</small>
 
 * fix: add commit-message field to release PR workflow (#9922) ([23b4a3a](https://github.com/sanity-io/sanity/commit/23b4a3a)), closes [#9922](https://github.com/sanity-io/sanity/issues/9922)

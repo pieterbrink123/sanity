@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>3.98.2 (2025-07-10)</small>
+
+* fix(deps): update dependency @sanity/ui to ^2.16.4 (#9934) ([3967361](https://github.com/sanity-io/sanity/commit/3967361)), closes [#9934](https://github.com/sanity-io/sanity/issues/9934)
+
+
+
+
+
 ## <small>3.98.1 (2025-07-09)</small>
 
 * fix(deps): update dependency @sanity/ui to ^2.16.3 (#9931) ([d2b3cf5](https://github.com/sanity-io/sanity/commit/d2b3cf5)), closes [#9931](https://github.com/sanity-io/sanity/issues/9931)

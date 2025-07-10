@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>3.98.2 (2025-07-10)</small>
+
+**Note:** Version bump only for package @sanity/types
+
+
+
+
+
 ## <small>3.98.1 (2025-07-09)</small>
 
 **Note:** Version bump only for package @sanity/types
